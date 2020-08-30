@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://i.ibb.co/tXvC2qz/github.jpg" alt="github" border="0">
 -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
-<div style="font-family:'Poppins',sans-serif;color:#24262a;padding:40px;background-color:#e6e9ee;">
-    <div style="background-color:#fff;box-shadow: 0px 0px 15px 4px rgba(214, 218, 224, .9);padding:40px;">
-        <h1 style="font-size:40px;font-weight:600;margin:0;">I’m Mohan,<br>A front-end developer & UX Designer.</h1>
-        <p style="font-size:20px;font-weight:300;">I'm a budding front-end developer & UX Designer with 6 years of creative web design skills for the benefit of a top-level web solution provider through creating interactive and stunning websites.</p>
-        <p style="font-size:14px;font-weight:300;">Experience in Reactjs, Vuejs, Nodejs, javascript, HTML5, CSS3, Responsive Design, Bootstrap Framework and Design tools.</p>
-    </div>
-</div>
+# I’m Mohan,<br>A front-end developer & UX Designer. #
+
+I'm a budding front-end developer & UX Designer with 6 years of creative web design skills for the benefit of a top-level web solution provider through creating interactive and stunning websites.
+
+`🔭 I’m currently working on Reactjs, Vuejs, Nodejs, javascript, HTML5, CSS3, Responsive Design, Bootstrap Framework and Design tools.`
